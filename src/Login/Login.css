@@ -1,0 +1,33 @@
+.SquareBoxLogin {
+  display: flex;
+  width: 400px;
+  height: 400px;
+  background-color: #252525;
+  margin-top: 200px;
+  align-items: center;
+  border-radius: 5px;
+}
+.SquareLogin {
+  width: 380px;
+  height: 380px;
+  background-color: #a1a1a1bd;
+  align-content: flex-end;
+  margin: 3px;
+}
+h2 {
+  margin-top: 100px;
+}
+#OrLogin{
+    font-weight: bold;
+    text-align: center;
+}
+.Input {
+  margin-bottom: 5px;
+}
+#BtnSendLogin {
+  margin-top: 5px;
+
+}
+#LinkRegister{
+  text-decoration: none;
+}

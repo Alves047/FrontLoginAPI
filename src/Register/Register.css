@@ -1,0 +1,32 @@
+.SquareBoxRegister {
+  display: flex;
+  width: 400px;
+  height: 400px;
+  background-color: #252525;
+  margin-top: 200px;
+  align-items: center;
+  border-radius: 5px;
+}
+.SquareRegister {
+  width: 380px;
+  height: 380px;
+  background-color: #a1a1a1bd;
+  align-content: flex-end;
+  margin: 3px;
+}
+h2 {
+  margin-top: 80px;
+}
+.Input {
+  margin-bottom: 5px;
+}
+#OrRegister {
+  text-align: center;
+  font-weight: bold;
+}
+#BtnSendRegister {
+  margin-top: 5px;
+}
+#LinkLogin {
+  text-decoration: none;
+}
